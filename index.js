@@ -1,14 +1,8 @@
-import "./styles.css";
-import { isEmpty, showAlert} from './validation.js'
+// import "./styles.css";
+// import { isEmpty, showAlert} from './validation.js'
 
-//import * as bootstrap from 'bootstrap';
-import bootstrap from 'bootstrap'; 
 
 console.log("hello world!");
-
-
-
-
 
 //搜索資訊
 const fetchJsonp = require('fetch-jsonp');
